@@ -1,2 +1,2 @@
 # Machine-Learn
-Some exercises to Jupyter Notebook
+Usando o python e o R como plataforma de aprendizado de máquina.
